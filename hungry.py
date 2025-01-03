@@ -1,3 +1,5 @@
-print("hello")
-print("priyanka")
-print("happy new year")
+hungry=input("Are you hungry?")
+if hungry == "yes":
+    print("Eat Biriyani!!")
+else:
+    print("Study")
